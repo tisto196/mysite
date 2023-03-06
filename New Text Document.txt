@@ -1,0 +1,18 @@
+css Box model 
+
+padding -------- an be used to determine the space between the content in the div with the element which increase the lenght of the box
+
+margin -------- invisible layer that gives space between boxes
+
+broder --- the inner most layer 
+
+static position ---- fixed by defult by html
+
+relative position ---- position chages by its original relative postion like if we want the div or image to move to the right
+                       side of the screen well use "postion:relative; left:100px"
+                       and it does not affect the layout of other divs or any other postions in the screen
+                       and ablosute positioning is used to postion based on or relative to the parent  ex postion : ablosute; right:100px
+                       and fixed postion whichis fixed in the same position even if uu scroll the screen which is used for nav bar or the title for some websites
+
+
+  

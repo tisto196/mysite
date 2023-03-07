@@ -15,4 +15,6 @@ relative position ---- position chages by its original relative postion like if 
                        and fixed postion whichis fixed in the same position even if uu scroll the screen which is used for nav bar or the title for some websites
 
 
-  
+Float  ----------  which is used to postion text or wrap text around a image 
+
+and we can use clear to change or unwrap any particular tags 

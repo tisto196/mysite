@@ -44,6 +44,9 @@ h3{
 a{
     color: #0096FF;
 }
+a:hover{
+    color: #2E0249;
+}
 p{
     font-family: 'Nanum Pen Script', cursive;
     font-size: 29px; /* 1 em = 16px same as 100% while px is static em and % are dynamic or we can use rem to ignore the parent size thats beening used 
